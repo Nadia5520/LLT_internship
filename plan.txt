@@ -1,0 +1,7 @@
+week 1 => scan_pipeline.py //working but imporving 
+week 2 => text_extractor.py
+
+option 1: python scan_pipeline.py --input scans --output extracted_artworks --viz visualizations
+option 2: python scan_pipeline.py --input scans --output extracted_artworks --viz visualizations --ocr
+option 3: python scan_pipeline.py --input scans --output extracted_artworks --viz visualizations --model margo_veillon_classifier.keras
+option 4: python scan_pipeline.py --input scans --output extracted_artworks --viz visualizations --ocr --model margo_veillon_classifier.keras --require-classifier
