@@ -1,0 +1,10 @@
+﻿# Artwork Dataset
+path: C:/Users/Nadiaa/OneDrive/Desktop/artworkproj/dataset
+train: images
+val: images
+
+# Number of classes
+nc: 1
+
+# Class names
+names: ['artwork']

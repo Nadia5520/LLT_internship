@@ -1,0 +1,28 @@
+week 1 => scan_pipeline.py //working but imporving 
+week 2 => text_extractor.py
+
+option 1: python scan_pipeline.py --input scans --output extracted_artworks --viz visualizations
+option 2: python scan_pipeline.py --input scans --output extracted_artworks --viz visualizations --ocr
+option 3: python scan_pipeline.py --input scans --output extracted_artworks --viz visualizations --model margo_veillon_classifier.keras
+option 4: python scan_pipeline.py --input scans --output extracted_artworks --viz visualizations --ocr --model margo_veillon_classifier.keras --require-classifier
+---------------------------------------------------------------------------------------------------------------------------------
+
+in option 2:
+the issue:......
+[GOOD SCAN]                    [YOUR SCANS]
+┌─────────────────┐           ┌─────────────────┐
+│  [ARTWORK]      │           │  Exhibition List│
+│                 │           │  1928: Paris    │
+│  Title: XYZ     │           │  1929: Cairo    │
+│  Artist: Margo  │           │  1930: Zurich   │
+└─────────────────┘           └─────────────────┘
+     (image + text)                (text only)
+
+
+fixing threshold:
+# Lower text filtering thresholds
+python scan_pipeline.py --input scans --output results --viz boxes --model margo_veillon_classifier.keras --classifier-threshold 0.1
+
+
+so far the best command to run for art detection is: python art_extractor.py --scans scans      
+____________________________________________________________________________________________

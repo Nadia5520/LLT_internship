@@ -1,0 +1,1796 @@
+{
+  "Margot_Veillon_Exhibition_Price_List.PNG": [
+    {
+      "candidate": 1,
+      "coords": [
+        261,
+        1760,
+        306,
+        21
+      ],
+      "mv_score": 0.19230179488658905,
+      "other_max": 0.2431621551513672,
+      "decision": false
+    },
+    {
+      "candidate": 2,
+      "coords": [
+        551,
+        1517,
+        134,
+        28
+      ],
+      "mv_score": 0.18287621438503265,
+      "other_max": 0.2672198414802551,
+      "decision": false
+    },
+    {
+      "candidate": 3,
+      "coords": [
+        45,
+        1436,
+        171,
+        33
+      ],
+      "mv_score": 0.18087852001190186,
+      "other_max": 0.2690131962299347,
+      "decision": false
+    },
+    {
+      "candidate": 4,
+      "coords": [
+        0,
+        1331,
+        828,
+        77
+      ],
+      "mv_score": 0.2009878009557724,
+      "other_max": 0.23261000216007233,
+      "decision": false
+    },
+    {
+      "candidate": 5,
+      "coords": [
+        643,
+        1255,
+        123,
+        28
+      ],
+      "mv_score": 0.18262556195259094,
+      "other_max": 0.26728329062461853,
+      "decision": false
+    },
+    {
+      "candidate": 6,
+      "coords": [
+        122,
+        1202,
+        108,
+        31
+      ],
+      "mv_score": 0.19043578207492828,
+      "other_max": 0.2735683023929596,
+      "decision": false
+    },
+    {
+      "candidate": 7,
+      "coords": [
+        234,
+        1193,
+        105,
+        35
+      ],
+      "mv_score": 0.20263683795928955,
+      "other_max": 0.25510531663894653,
+      "decision": false
+    },
+    {
+      "candidate": 8,
+      "coords": [
+        437,
+        1180,
+        110,
+        36
+      ],
+      "mv_score": 0.1970679759979248,
+      "other_max": 0.2709248661994934,
+      "decision": false
+    },
+    {
+      "candidate": 9,
+      "coords": [
+        45,
+        1125,
+        159,
+        35
+      ],
+      "mv_score": 0.18811556696891785,
+      "other_max": 0.24490028619766235,
+      "decision": false
+    },
+    {
+      "candidate": 10,
+      "coords": [
+        234,
+        1117,
+        98,
+        37
+      ],
+      "mv_score": 0.1824602633714676,
+      "other_max": 0.23558026552200317,
+      "decision": false
+    },
+    {
+      "candidate": 11,
+      "coords": [
+        0,
+        593,
+        609,
+        520
+      ],
+      "mv_score": 0.16507528722286224,
+      "other_max": 0.21555159986019135,
+      "decision": false
+    },
+    {
+      "candidate": 12,
+      "coords": [
+        665,
+        761,
+        163,
+        120
+      ],
+      "mv_score": 0.178187757730484,
+      "other_max": 0.22414854168891907,
+      "decision": false
+    },
+    {
+      "candidate": 13,
+      "coords": [
+        247,
+        596,
+        92,
+        52
+      ],
+      "mv_score": 0.18600235879421234,
+      "other_max": 0.2496505081653595,
+      "decision": false
+    },
+    {
+      "candidate": 14,
+      "coords": [
+        84,
+        386,
+        368,
+        207
+      ],
+      "mv_score": 0.1821124404668808,
+      "other_max": 0.22065916657447815,
+      "decision": false
+    },
+    {
+      "candidate": 15,
+      "coords": [
+        133,
+        449,
+        99,
+        61
+      ],
+      "mv_score": 0.19147562980651855,
+      "other_max": 0.24547353386878967,
+      "decision": false
+    },
+    {
+      "candidate": 16,
+      "coords": [
+        179,
+        209,
+        470,
+        126
+      ],
+      "mv_score": 0.17733356356620789,
+      "other_max": 0.23786140978336334,
+      "decision": false
+    },
+    {
+      "candidate": 17,
+      "coords": [
+        529,
+        123,
+        299,
+        25
+      ],
+      "mv_score": 0.2050989866256714,
+      "other_max": 0.2401139885187149,
+      "decision": false
+    },
+    {
+      "candidate": 18,
+      "coords": [
+        0,
+        114,
+        520,
+        89
+      ],
+      "mv_score": 0.19445085525512695,
+      "other_max": 0.22903628647327423,
+      "decision": false
+    }
+  ],
+  "Margo_Veillon_Biographical_Note_and_Travels.PNG": [
+    {
+      "candidate": 1,
+      "coords": [
+        261,
+        1760,
+        306,
+        21
+      ],
+      "mv_score": 0.19230179488658905,
+      "other_max": 0.2431621551513672,
+      "decision": false
+    },
+    {
+      "candidate": 2,
+      "coords": [
+        551,
+        1622,
+        134,
+        28
+      ],
+      "mv_score": 0.18081551790237427,
+      "other_max": 0.2651267945766449,
+      "decision": false
+    },
+    {
+      "candidate": 3,
+      "coords": [
+        45,
+        1541,
+        171,
+        33
+      ],
+      "mv_score": 0.18034501373767853,
+      "other_max": 0.2694705128669739,
+      "decision": false
+    },
+    {
+      "candidate": 4,
+      "coords": [
+        0,
+        1436,
+        828,
+        77
+      ],
+      "mv_score": 0.19506056606769562,
+      "other_max": 0.2288811355829239,
+      "decision": false
+    },
+    {
+      "candidate": 5,
+      "coords": [
+        643,
+        1360,
+        123,
+        28
+      ],
+      "mv_score": 0.18149219453334808,
+      "other_max": 0.26794975996017456,
+      "decision": false
+    },
+    {
+      "candidate": 6,
+      "coords": [
+        148,
+        1312,
+        431,
+        77
+      ],
+      "mv_score": 0.20739784836769104,
+      "other_max": 0.23319441080093384,
+      "decision": false
+    },
+    {
+      "candidate": 7,
+      "coords": [
+        55,
+        1043,
+        668,
+        211
+      ],
+      "mv_score": 0.23556001484394073,
+      "other_max": 0.2563239336013794,
+      "decision": false
+    },
+    {
+      "candidate": 8,
+      "coords": [
+        578,
+        973,
+        121,
+        53
+      ],
+      "mv_score": 0.1763080358505249,
+      "other_max": 0.24842020869255066,
+      "decision": false
+    },
+    {
+      "candidate": 9,
+      "coords": [
+        50,
+        484,
+        640,
+        426
+      ],
+      "mv_score": 0.19586805999279022,
+      "other_max": 0.21479804813861847,
+      "decision": false
+    },
+    {
+      "candidate": 10,
+      "coords": [
+        106,
+        803,
+        76,
+        46
+      ],
+      "mv_score": 0.18003350496292114,
+      "other_max": 0.23357431590557098,
+      "decision": false
+    },
+    {
+      "candidate": 11,
+      "coords": [
+        259,
+        742,
+        241,
+        54
+      ],
+      "mv_score": 0.16290992498397827,
+      "other_max": 0.2510543167591095,
+      "decision": false
+    },
+    {
+      "candidate": 12,
+      "coords": [
+        65,
+        423,
+        179,
+        42
+      ],
+      "mv_score": 0.17533576488494873,
+      "other_max": 0.250166654586792,
+      "decision": false
+    },
+    {
+      "candidate": 13,
+      "coords": [
+        0,
+        74,
+        644,
+        279
+      ],
+      "mv_score": 0.16151165962219238,
+      "other_max": 0.24160519242286682,
+      "decision": false
+    }
+  ],
+  "Margo_Veillon_Exhibition_List_1928_1982.PNG": [
+    {
+      "candidate": 1,
+      "coords": [
+        261,
+        1760,
+        306,
+        21
+      ],
+      "mv_score": 0.19230179488658905,
+      "other_max": 0.2431621551513672,
+      "decision": false
+    },
+    {
+      "candidate": 2,
+      "coords": [
+        549,
+        1622,
+        123,
+        28
+      ],
+      "mv_score": 0.18317988514900208,
+      "other_max": 0.2620144784450531,
+      "decision": false
+    },
+    {
+      "candidate": 3,
+      "coords": [
+        45,
+        1541,
+        171,
+        33
+      ],
+      "mv_score": 0.18034501373767853,
+      "other_max": 0.2694705128669739,
+      "decision": false
+    },
+    {
+      "candidate": 4,
+      "coords": [
+        0,
+        1184,
+        828,
+        329
+      ],
+      "mv_score": 0.21295642852783203,
+      "other_max": 0.23821863532066345,
+      "decision": false
+    },
+    {
+      "candidate": 5,
+      "coords": [
+        241,
+        1319,
+        136,
+        28
+      ],
+      "mv_score": 0.1831543892621994,
+      "other_max": 0.25054025650024414,
+      "decision": false
+    },
+    {
+      "candidate": 6,
+      "coords": [
+        208,
+        1285,
+        125,
+        32
+      ],
+      "mv_score": 0.1874629408121109,
+      "other_max": 0.24945969879627228,
+      "decision": false
+    },
+    {
+      "candidate": 7,
+      "coords": [
+        181,
+        1250,
+        107,
+        34
+      ],
+      "mv_score": 0.1917494833469391,
+      "other_max": 0.24483168125152588,
+      "decision": false
+    },
+    {
+      "candidate": 8,
+      "coords": [
+        97,
+        1118,
+        117,
+        28
+      ],
+      "mv_score": 0.1909761130809784,
+      "other_max": 0.23692767322063446,
+      "decision": false
+    },
+    {
+      "candidate": 9,
+      "coords": [
+        172,
+        1021,
+        165,
+        61
+      ],
+      "mv_score": 0.18322204053401947,
+      "other_max": 0.2606881260871887,
+      "decision": false
+    },
+    {
+      "candidate": 10,
+      "coords": [
+        79,
+        1051,
+        133,
+        27
+      ],
+      "mv_score": 0.17655107378959656,
+      "other_max": 0.26269418001174927,
+      "decision": false
+    },
+    {
+      "candidate": 11,
+      "coords": [
+        332,
+        988,
+        126,
+        25
+      ],
+      "mv_score": 0.18588967621326447,
+      "other_max": 0.2480737864971161,
+      "decision": false
+    },
+    {
+      "candidate": 12,
+      "coords": [
+        106,
+        927,
+        132,
+        32
+      ],
+      "mv_score": 0.18399760127067566,
+      "other_max": 0.2546510398387909,
+      "decision": false
+    },
+    {
+      "candidate": 13,
+      "coords": [
+        368,
+        926,
+        125,
+        30
+      ],
+      "mv_score": 0.17584128677845,
+      "other_max": 0.23411472141742706,
+      "decision": false
+    },
+    {
+      "candidate": 14,
+      "coords": [
+        64,
+        810,
+        159,
+        55
+      ],
+      "mv_score": 0.1861257553100586,
+      "other_max": 0.25309404730796814,
+      "decision": false
+    },
+    {
+      "candidate": 15,
+      "coords": [
+        113,
+        748,
+        117,
+        26
+      ],
+      "mv_score": 0.1829294115304947,
+      "other_max": 0.2613889276981354,
+      "decision": false
+    },
+    {
+      "candidate": 16,
+      "coords": [
+        261,
+        720,
+        126,
+        26
+      ],
+      "mv_score": 0.1860562562942505,
+      "other_max": 0.24108389019966125,
+      "decision": false
+    },
+    {
+      "candidate": 17,
+      "coords": [
+        333,
+        691,
+        122,
+        27
+      ],
+      "mv_score": 0.18291176855564117,
+      "other_max": 0.2495279461145401,
+      "decision": false
+    },
+    {
+      "candidate": 18,
+      "coords": [
+        461,
+        668,
+        86,
+        49
+      ],
+      "mv_score": 0.18773138523101807,
+      "other_max": 0.23472005128860474,
+      "decision": false
+    },
+    {
+      "candidate": 19,
+      "coords": [
+        101,
+        637,
+        235,
+        80
+      ],
+      "mv_score": 0.18025712668895721,
+      "other_max": 0.2507108151912689,
+      "decision": false
+    },
+    {
+      "candidate": 20,
+      "coords": [
+        194,
+        604,
+        132,
+        27
+      ],
+      "mv_score": 0.1886548399925232,
+      "other_max": 0.23555365204811096,
+      "decision": false
+    },
+    {
+      "candidate": 21,
+      "coords": [
+        108,
+        550,
+        129,
+        28
+      ],
+      "mv_score": 0.1811378002166748,
+      "other_max": 0.2515193521976471,
+      "decision": false
+    },
+    {
+      "candidate": 23,
+      "coords": [
+        103,
+        445,
+        270,
+        77
+      ],
+      "mv_score": 0.17711013555526733,
+      "other_max": 0.24695730209350586,
+      "decision": false
+    },
+    {
+      "candidate": 24,
+      "coords": [
+        0,
+        178,
+        723,
+        160
+      ],
+      "mv_score": 0.17627215385437012,
+      "other_max": 0.24392350018024445,
+      "decision": false
+    },
+    {
+      "candidate": 25,
+      "coords": [
+        312,
+        124,
+        123,
+        44
+      ],
+      "mv_score": 0.19016121327877045,
+      "other_max": 0.27669233083724976,
+      "decision": false
+    }
+  ],
+  "Margo_Veillon_Painting_Tenderness_1973.PNG": [
+    {
+      "candidate": 1,
+      "coords": [
+        261,
+        1760,
+        306,
+        21
+      ],
+      "mv_score": 0.19230179488658905,
+      "other_max": 0.2431621551513672,
+      "decision": false
+    },
+    {
+      "candidate": 2,
+      "coords": [
+        551,
+        1517,
+        134,
+        28
+      ],
+      "mv_score": 0.18287621438503265,
+      "other_max": 0.2672198414802551,
+      "decision": false
+    },
+    {
+      "candidate": 3,
+      "coords": [
+        45,
+        1436,
+        171,
+        33
+      ],
+      "mv_score": 0.18087852001190186,
+      "other_max": 0.2690131962299347,
+      "decision": false
+    },
+    {
+      "candidate": 4,
+      "coords": [
+        0,
+        1331,
+        828,
+        77
+      ],
+      "mv_score": 0.1891389787197113,
+      "other_max": 0.23347045481204987,
+      "decision": false
+    },
+    {
+      "candidate": 5,
+      "coords": [
+        49,
+        0,
+        762,
+        1329
+      ],
+      "mv_score": 0.24923820793628693,
+      "other_max": 0.2699448764324188,
+      "decision": false
+    }
+  ],
+  "Veillon_Cairo_Exhibition_1998.PNG": [
+    {
+      "candidate": 1,
+      "coords": [
+        261,
+        1760,
+        306,
+        21
+      ],
+      "mv_score": 0.19230179488658905,
+      "other_max": 0.2431621551513672,
+      "decision": false
+    },
+    {
+      "candidate": 2,
+      "coords": [
+        551,
+        1622,
+        134,
+        28
+      ],
+      "mv_score": 0.18287621438503265,
+      "other_max": 0.2672198414802551,
+      "decision": false
+    },
+    {
+      "candidate": 3,
+      "coords": [
+        45,
+        1541,
+        171,
+        33
+      ],
+      "mv_score": 0.18087852001190186,
+      "other_max": 0.2690131962299347,
+      "decision": false
+    },
+    {
+      "candidate": 4,
+      "coords": [
+        0,
+        209,
+        828,
+        1304
+      ],
+      "mv_score": 0.2672117352485657,
+      "other_max": 0.30610620975494385,
+      "decision": false
+    },
+    {
+      "candidate": 5,
+      "coords": [
+        643,
+        1360,
+        123,
+        28
+      ],
+      "mv_score": 0.18262556195259094,
+      "other_max": 0.26728329062461853,
+      "decision": false
+    },
+    {
+      "candidate": 6,
+      "coords": [
+        20,
+        1258,
+        239,
+        48
+      ],
+      "mv_score": 0.1729954034090042,
+      "other_max": 0.2358631044626236,
+      "decision": false
+    },
+    {
+      "candidate": 7,
+      "coords": [
+        262,
+        581,
+        470,
+        784
+      ],
+      "mv_score": 0.2351485937833786,
+      "other_max": 0.24942979216575623,
+      "decision": false
+    },
+    {
+      "candidate": 8,
+      "coords": [
+        509,
+        1069,
+        251,
+        203
+      ],
+      "mv_score": 0.22424829006195068,
+      "other_max": 0.25594741106033325,
+      "decision": false
+    },
+    {
+      "candidate": 9,
+      "coords": [
+        89,
+        1177,
+        170,
+        81
+      ],
+      "mv_score": 0.1975805014371872,
+      "other_max": 0.24630169570446014,
+      "decision": false
+    },
+    {
+      "candidate": 10,
+      "coords": [
+        275,
+        1110,
+        83,
+        41
+      ],
+      "mv_score": 0.18750599026679993,
+      "other_max": 0.23508840799331665,
+      "decision": false
+    },
+    {
+      "candidate": 11,
+      "coords": [
+        32,
+        920,
+        228,
+        104
+      ],
+      "mv_score": 0.21216295659542084,
+      "other_max": 0.2338079810142517,
+      "decision": false
+    },
+    {
+      "candidate": 12,
+      "coords": [
+        281,
+        550,
+        103,
+        30
+      ],
+      "mv_score": 0.18736641108989716,
+      "other_max": 0.26246124505996704,
+      "decision": false
+    },
+    {
+      "candidate": 13,
+      "coords": [
+        388,
+        548,
+        105,
+        29
+      ],
+      "mv_score": 0.18045824766159058,
+      "other_max": 0.25259536504745483,
+      "decision": false
+    },
+    {
+      "candidate": 14,
+      "coords": [
+        142,
+        504,
+        125,
+        49
+      ],
+      "mv_score": 0.20129598677158356,
+      "other_max": 0.2714307904243469,
+      "decision": false
+    },
+    {
+      "candidate": 15,
+      "coords": [
+        394,
+        499,
+        82,
+        47
+      ],
+      "mv_score": 0.1987588107585907,
+      "other_max": 0.27286913990974426,
+      "decision": false
+    },
+    {
+      "candidate": 16,
+      "coords": [
+        245,
+        466,
+        115,
+        32
+      ],
+      "mv_score": 0.1707344800233841,
+      "other_max": 0.24551279842853546,
+      "decision": false
+    },
+    {
+      "candidate": 17,
+      "coords": [
+        402,
+        463,
+        85,
+        35
+      ],
+      "mv_score": 0.18209512531757355,
+      "other_max": 0.24139046669006348,
+      "decision": false
+    },
+    {
+      "candidate": 18,
+      "coords": [
+        312,
+        124,
+        124,
+        44
+      ],
+      "mv_score": 0.19254617393016815,
+      "other_max": 0.28062522411346436,
+      "decision": false
+    },
+    {
+      "candidate": 19,
+      "coords": [
+        97,
+        28,
+        731,
+        90
+      ],
+      "mv_score": 0.21355223655700684,
+      "other_max": 0.2386225312948227,
+      "decision": false
+    }
+  ],
+  "Veillon_Egyptian_Studies_1935.PNG": [
+    {
+      "candidate": 1,
+      "coords": [
+        261,
+        1760,
+        306,
+        21
+      ],
+      "mv_score": 0.19230179488658905,
+      "other_max": 0.2431621551513672,
+      "decision": false
+    },
+    {
+      "candidate": 2,
+      "coords": [
+        551,
+        1622,
+        134,
+        28
+      ],
+      "mv_score": 0.18287621438503265,
+      "other_max": 0.2672198414802551,
+      "decision": false
+    },
+    {
+      "candidate": 3,
+      "coords": [
+        45,
+        1541,
+        171,
+        33
+      ],
+      "mv_score": 0.18087852001190186,
+      "other_max": 0.2690131962299347,
+      "decision": false
+    },
+    {
+      "candidate": 5,
+      "coords": [
+        408,
+        1332,
+        172,
+        65
+      ],
+      "mv_score": 0.24419744312763214,
+      "other_max": 0.27792513370513916,
+      "decision": false
+    },
+    {
+      "candidate": 6,
+      "coords": [
+        54,
+        1091,
+        345,
+        247
+      ],
+      "mv_score": 0.19501283764839172,
+      "other_max": 0.24276362359523773,
+      "decision": false
+    },
+    {
+      "candidate": 7,
+      "coords": [
+        392,
+        795,
+        343,
+        535
+      ],
+      "mv_score": 0.2500949501991272,
+      "other_max": 0.2756715416908264,
+      "decision": false
+    },
+    {
+      "candidate": 8,
+      "coords": [
+        81,
+        475,
+        302,
+        591
+      ],
+      "mv_score": 0.2292456030845642,
+      "other_max": 0.2572004497051239,
+      "decision": false
+    },
+    {
+      "candidate": 9,
+      "coords": [
+        147,
+        402,
+        165,
+        46
+      ],
+      "mv_score": 0.17595462501049042,
+      "other_max": 0.24465617537498474,
+      "decision": false
+    },
+    {
+      "candidate": 10,
+      "coords": [
+        386,
+        364,
+        293,
+        389
+      ],
+      "mv_score": 0.2388719618320465,
+      "other_max": 0.2519303858280182,
+      "decision": false
+    },
+    {
+      "candidate": 11,
+      "coords": [
+        692,
+        359,
+        136,
+        35
+      ],
+      "mv_score": 0.17952227592468262,
+      "other_max": 0.23975621163845062,
+      "decision": false
+    },
+    {
+      "candidate": 13,
+      "coords": [
+        641,
+        62,
+        104,
+        85
+      ],
+      "mv_score": 0.2092556357383728,
+      "other_max": 0.2402627021074295,
+      "decision": false
+    }
+  ],
+  "Veillon_Exhibition_1929_1978.PNG": [
+    {
+      "candidate": 1,
+      "coords": [
+        261,
+        1760,
+        306,
+        21
+      ],
+      "mv_score": 0.19230179488658905,
+      "other_max": 0.2431621551513672,
+      "decision": false
+    },
+    {
+      "candidate": 2,
+      "coords": [
+        551,
+        1517,
+        134,
+        28
+      ],
+      "mv_score": 0.18287621438503265,
+      "other_max": 0.2672198414802551,
+      "decision": false
+    },
+    {
+      "candidate": 3,
+      "coords": [
+        45,
+        1436,
+        171,
+        33
+      ],
+      "mv_score": 0.18087852001190186,
+      "other_max": 0.2690131962299347,
+      "decision": false
+    },
+    {
+      "candidate": 5,
+      "coords": [
+        540,
+        492,
+        122,
+        34
+      ],
+      "mv_score": 0.18344248831272125,
+      "other_max": 0.2700204849243164,
+      "decision": false
+    },
+    {
+      "candidate": 6,
+      "coords": [
+        413,
+        487,
+        120,
+        36
+      ],
+      "mv_score": 0.18918657302856445,
+      "other_max": 0.27070820331573486,
+      "decision": false
+    },
+    {
+      "candidate": 7,
+      "coords": [
+        315,
+        485,
+        91,
+        32
+      ],
+      "mv_score": 0.18834519386291504,
+      "other_max": 0.2663581669330597,
+      "decision": false
+    },
+    {
+      "candidate": 8,
+      "coords": [
+        439,
+        420,
+        212,
+        43
+      ],
+      "mv_score": 0.17367655038833618,
+      "other_max": 0.24086040258407593,
+      "decision": false
+    },
+    {
+      "candidate": 9,
+      "coords": [
+        330,
+        417,
+        103,
+        35
+      ],
+      "mv_score": 0.20575256645679474,
+      "other_max": 0.2613334357738495,
+      "decision": false
+    },
+    {
+      "candidate": 10,
+      "coords": [
+        226,
+        415,
+        98,
+        39
+      ],
+      "mv_score": 0.1939673125743866,
+      "other_max": 0.2514810860157013,
+      "decision": false
+    },
+    {
+      "candidate": 11,
+      "coords": [
+        535,
+        355,
+        293,
+        53
+      ],
+      "mv_score": 0.20064647495746613,
+      "other_max": 0.2707134187221527,
+      "decision": false
+    },
+    {
+      "candidate": 12,
+      "coords": [
+        387,
+        350,
+        142,
+        38
+      ],
+      "mv_score": 0.18428631126880646,
+      "other_max": 0.2694516181945801,
+      "decision": false
+    },
+    {
+      "candidate": 13,
+      "coords": [
+        665,
+        274,
+        163,
+        46
+      ],
+      "mv_score": 0.20406347513198853,
+      "other_max": 0.23370127379894257,
+      "decision": false
+    },
+    {
+      "candidate": 14,
+      "coords": [
+        312,
+        124,
+        124,
+        44
+      ],
+      "mv_score": 0.18939614295959473,
+      "other_max": 0.2747475504875183,
+      "decision": false
+    }
+  ],
+  "Veillon_Prizes_and_Public_Works_List.PNG": [
+    {
+      "candidate": 1,
+      "coords": [
+        261,
+        1760,
+        306,
+        21
+      ],
+      "mv_score": 0.19230179488658905,
+      "other_max": 0.2431621551513672,
+      "decision": false
+    },
+    {
+      "candidate": 2,
+      "coords": [
+        551,
+        1666,
+        134,
+        28
+      ],
+      "mv_score": 0.18081551790237427,
+      "other_max": 0.2651267945766449,
+      "decision": false
+    },
+    {
+      "candidate": 3,
+      "coords": [
+        45,
+        1585,
+        171,
+        33
+      ],
+      "mv_score": 0.18034501373767853,
+      "other_max": 0.2694705128669739,
+      "decision": false
+    },
+    {
+      "candidate": 4,
+      "coords": [
+        0,
+        1364,
+        828,
+        193
+      ],
+      "mv_score": 0.21063636243343353,
+      "other_max": 0.24146254360675812,
+      "decision": false
+    },
+    {
+      "candidate": 5,
+      "coords": [
+        204,
+        1288,
+        85,
+        45
+      ],
+      "mv_score": 0.19220934808254242,
+      "other_max": 0.2710574269294739,
+      "decision": false
+    },
+    {
+      "candidate": 6,
+      "coords": [
+        74,
+        807,
+        666,
+        447
+      ],
+      "mv_score": 0.2130288928747177,
+      "other_max": 0.23732778429985046,
+      "decision": false
+    },
+    {
+      "candidate": 7,
+      "coords": [
+        176,
+        1066,
+        128,
+        33
+      ],
+      "mv_score": 0.16965171694755554,
+      "other_max": 0.252189576625824,
+      "decision": false
+    },
+    {
+      "candidate": 8,
+      "coords": [
+        340,
+        996,
+        178,
+        62
+      ],
+      "mv_score": 0.1790495216846466,
+      "other_max": 0.262686550617218,
+      "decision": false
+    },
+    {
+      "candidate": 9,
+      "coords": [
+        90,
+        1001,
+        124,
+        28
+      ],
+      "mv_score": 0.1787954419851303,
+      "other_max": 0.25896450877189636,
+      "decision": false
+    },
+    {
+      "candidate": 10,
+      "coords": [
+        145,
+        872,
+        119,
+        26
+      ],
+      "mv_score": 0.1858079582452774,
+      "other_max": 0.2622821629047394,
+      "decision": false
+    },
+    {
+      "candidate": 11,
+      "coords": [
+        271,
+        751,
+        242,
+        54
+      ],
+      "mv_score": 0.17477117478847504,
+      "other_max": 0.26620787382125854,
+      "decision": false
+    },
+    {
+      "candidate": 12,
+      "coords": [
+        255,
+        587,
+        115,
+        30
+      ],
+      "mv_score": 0.19207006692886353,
+      "other_max": 0.24390368163585663,
+      "decision": false
+    },
+    {
+      "candidate": 13,
+      "coords": [
+        370,
+        586,
+        128,
+        25
+      ],
+      "mv_score": 0.18220487236976624,
+      "other_max": 0.2572001814842224,
+      "decision": false
+    },
+    {
+      "candidate": 14,
+      "coords": [
+        281,
+        535,
+        78,
+        48
+      ],
+      "mv_score": 0.23221854865550995,
+      "other_max": 0.2823907732963562,
+      "decision": false
+    },
+    {
+      "candidate": 15,
+      "coords": [
+        95,
+        413,
+        321,
+        124
+      ],
+      "mv_score": 0.21577689051628113,
+      "other_max": 0.24767431616783142,
+      "decision": false
+    },
+    {
+      "candidate": 16,
+      "coords": [
+        533,
+        431,
+        146,
+        26
+      ],
+      "mv_score": 0.17747606337070465,
+      "other_max": 0.2401338815689087,
+      "decision": false
+    },
+    {
+      "candidate": 17,
+      "coords": [
+        758,
+        382,
+        70,
+        63
+      ],
+      "mv_score": 0.17987534403800964,
+      "other_max": 0.22349929809570312,
+      "decision": false
+    },
+    {
+      "candidate": 18,
+      "coords": [
+        24,
+        356,
+        605,
+        46
+      ],
+      "mv_score": 0.2022491693496704,
+      "other_max": 0.23325634002685547,
+      "decision": false
+    },
+    {
+      "candidate": 19,
+      "coords": [
+        0,
+        19,
+        658,
+        316
+      ],
+      "mv_score": 0.16433078050613403,
+      "other_max": 0.23752084374427795,
+      "decision": false
+    }
+  ],
+  "Vevey_Zabbeni_Gallery_Exhibition_1996.PNG": [
+    {
+      "candidate": 1,
+      "coords": [
+        261,
+        1760,
+        306,
+        21
+      ],
+      "mv_score": 0.19230179488658905,
+      "other_max": 0.2431621551513672,
+      "decision": false
+    },
+    {
+      "candidate": 2,
+      "coords": [
+        551,
+        1637,
+        134,
+        28
+      ],
+      "mv_score": 0.18114863336086273,
+      "other_max": 0.2654440999031067,
+      "decision": false
+    },
+    {
+      "candidate": 3,
+      "coords": [
+        45,
+        1556,
+        171,
+        33
+      ],
+      "mv_score": 0.18034501373767853,
+      "other_max": 0.2694705128669739,
+      "decision": false
+    },
+    {
+      "candidate": 4,
+      "coords": [
+        0,
+        1451,
+        828,
+        77
+      ],
+      "mv_score": 0.19758477807044983,
+      "other_max": 0.23355183005332947,
+      "decision": false
+    },
+    {
+      "candidate": 5,
+      "coords": [
+        643,
+        1375,
+        123,
+        28
+      ],
+      "mv_score": 0.18149219453334808,
+      "other_max": 0.26794975996017456,
+      "decision": false
+    },
+    {
+      "candidate": 6,
+      "coords": [
+        0,
+        1291,
+        757,
+        55
+      ],
+      "mv_score": 0.204386904835701,
+      "other_max": 0.2355692982673645,
+      "decision": false
+    },
+    {
+      "candidate": 7,
+      "coords": [
+        388,
+        1105,
+        329,
+        86
+      ],
+      "mv_score": 0.20273266732692719,
+      "other_max": 0.24961188435554504,
+      "decision": false
+    },
+    {
+      "candidate": 8,
+      "coords": [
+        49,
+        1066,
+        159,
+        24
+      ],
+      "mv_score": 0.18225499987602234,
+      "other_max": 0.2328454703092575,
+      "decision": false
+    },
+    {
+      "candidate": 9,
+      "coords": [
+        388,
+        1045,
+        90,
+        42
+      ],
+      "mv_score": 0.1916220486164093,
+      "other_max": 0.24396222829818726,
+      "decision": false
+    },
+    {
+      "candidate": 10,
+      "coords": [
+        252,
+        1042,
+        118,
+        44
+      ],
+      "mv_score": 0.19089587032794952,
+      "other_max": 0.23111963272094727,
+      "decision": false
+    },
+    {
+      "candidate": 11,
+      "coords": [
+        385,
+        996,
+        244,
+        46
+      ],
+      "mv_score": 0.18267308175563812,
+      "other_max": 0.2310028374195099,
+      "decision": false
+    },
+    {
+      "candidate": 12,
+      "coords": [
+        54,
+        944,
+        275,
+        47
+      ],
+      "mv_score": 0.17616958916187286,
+      "other_max": 0.22870488464832306,
+      "decision": false
+    },
+    {
+      "candidate": 13,
+      "coords": [
+        384,
+        814,
+        316,
+        134
+      ],
+      "mv_score": 0.19850744307041168,
+      "other_max": 0.2325516641139984,
+      "decision": false
+    },
+    {
+      "candidate": 14,
+      "coords": [
+        564,
+        926,
+        74,
+        44
+      ],
+      "mv_score": 0.1781853586435318,
+      "other_max": 0.2338106483221054,
+      "decision": false
+    },
+    {
+      "candidate": 15,
+      "coords": [
+        174,
+        894,
+        194,
+        50
+      ],
+      "mv_score": 0.1931799352169037,
+      "other_max": 0.2654983401298523,
+      "decision": false
+    },
+    {
+      "candidate": 16,
+      "coords": [
+        462,
+        765,
+        168,
+        47
+      ],
+      "mv_score": 0.16649043560028076,
+      "other_max": 0.2299448549747467,
+      "decision": false
+    },
+    {
+      "candidate": 17,
+      "coords": [
+        116,
+        730,
+        116,
+        47
+      ],
+      "mv_score": 0.1782287359237671,
+      "other_max": 0.23943063616752625,
+      "decision": false
+    },
+    {
+      "candidate": 18,
+      "coords": [
+        249,
+        725,
+        116,
+        47
+      ],
+      "mv_score": 0.20336276292800903,
+      "other_max": 0.23587463796138763,
+      "decision": false
+    },
+    {
+      "candidate": 20,
+      "coords": [
+        206,
+        624,
+        86,
+        45
+      ],
+      "mv_score": 0.18966546654701233,
+      "other_max": 0.27798640727996826,
+      "decision": false
+    },
+    {
+      "candidate": 21,
+      "coords": [
+        603,
+        623,
+        84,
+        54
+      ],
+      "mv_score": 0.1761990636587143,
+      "other_max": 0.25250402092933655,
+      "decision": false
+    },
+    {
+      "candidate": 22,
+      "coords": [
+        633,
+        457,
+        72,
+        36
+      ],
+      "mv_score": 0.18542708456516266,
+      "other_max": 0.26049232482910156,
+      "decision": false
+    },
+    {
+      "candidate": 23,
+      "coords": [
+        481,
+        456,
+        120,
+        46
+      ],
+      "mv_score": 0.1835521012544632,
+      "other_max": 0.2576862871646881,
+      "decision": false
+    },
+    {
+      "candidate": 24,
+      "coords": [
+        128,
+        456,
+        146,
+        38
+      ],
+      "mv_score": 0.18879491090774536,
+      "other_max": 0.2814565896987915,
+      "decision": false
+    },
+    {
+      "candidate": 25,
+      "coords": [
+        293,
+        455,
+        137,
+        47
+      ],
+      "mv_score": 0.1950290948152542,
+      "other_max": 0.2684391736984253,
+      "decision": false
+    },
+    {
+      "candidate": 26,
+      "coords": [
+        490,
+        417,
+        116,
+        30
+      ],
+      "mv_score": 0.17917665839195251,
+      "other_max": 0.2508935332298279,
+      "decision": false
+    },
+    {
+      "candidate": 27,
+      "coords": [
+        545,
+        362,
+        83,
+        35
+      ],
+      "mv_score": 0.20018862187862396,
+      "other_max": 0.27396073937416077,
+      "decision": false
+    }
+  ]
+}
