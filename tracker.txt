@@ -25,4 +25,8 @@ python scan_pipeline.py --input scans --output results --viz boxes --model margo
 
 
 so far the best command to run for art detection is: python art_extractor.py --scans scans      
-____________________________________________________________________________________________
+___________________________________________________________________________________________
+
+last command used to run the yolov8: python -m ultralytics.yolo task=detect mode=predict model=models/yolov8_veillon/weights/best.pt source=scans save=True conf=0.25 iou=0.45 project=det_results name=run1
+
+

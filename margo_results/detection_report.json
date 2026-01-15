@@ -1,0 +1,534 @@
+[
+  {
+    "scan": "artwork_that_does_exist.png",
+    "crop_id": 1,
+    "crop_file": "artwork_that_does_exist_art_1.jpg",
+    "bbox": [
+      2,
+      10,
+      390,
+      488
+    ],
+    "confidence": 0.9965012073516846,
+    "best_match": {
+      "filename": "Thinking_sadly.jpg",
+      "similarity": 0.9706704020500183,
+      "is_margo": "True",
+      "metadata": {}
+    },
+    "all_matches": [
+      {
+        "filename": "Thinking_sadly.jpg",
+        "similarity": 0.9706704020500183,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Round_earring.jpg",
+        "similarity": 0.8986837863922119,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Wide_eyed_woman.jpg",
+        "similarity": 0.8967721462249756,
+        "is_margo": "True",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "scan": "Margot_Veillon_Exhibition_Price_List.PNG",
+    "crop_id": 1,
+    "crop_file": "Margot_Veillon_Exhibition_Price_List_art_1.jpg",
+    "bbox": [
+      10,
+      35,
+      821,
+      1365
+    ],
+    "confidence": 0.9206359386444092,
+    "best_match": {
+      "filename": "Bellbotttoms_in_the_Studio.jpg",
+      "similarity": 0.7425060272216797,
+      "is_margo": "True",
+      "metadata": {}
+    },
+    "all_matches": [
+      {
+        "filename": "Bellbotttoms_in_the_Studio.jpg",
+        "similarity": 0.7425060272216797,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Abstract_faces_and_hands.jpg",
+        "similarity": 0.731172502040863,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Woman_with_donkey.jpg",
+        "similarity": 0.7281328439712524,
+        "is_margo": "True",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "scan": "Margo_Veillon_Biographical_Note_and_Travels.PNG",
+    "crop_id": 1,
+    "crop_file": "Margo_Veillon_Biographical_Note_and_Travels_art_1.jpg",
+    "bbox": [
+      10,
+      343,
+      824,
+      1773
+    ],
+    "confidence": 0.9202179312705994,
+    "best_match": {
+      "filename": "Bellbotttoms_in_the_Studio.jpg",
+      "similarity": 0.6989476680755615,
+      "is_margo": "True",
+      "metadata": {}
+    },
+    "all_matches": [
+      {
+        "filename": "Bellbotttoms_in_the_Studio.jpg",
+        "similarity": 0.6989476680755615,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Abstract_faces_and_hands.jpg",
+        "similarity": 0.6652107238769531,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Peasant_women.jpg",
+        "similarity": 0.6650567650794983,
+        "is_margo": "True",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "scan": "Margo_Veillon_Exhibition_List_1928_1982.PNG",
+    "crop_id": 1,
+    "crop_file": "Margo_Veillon_Exhibition_List_1928_1982_art_1.jpg",
+    "bbox": [
+      11,
+      22,
+      819,
+      1790
+    ],
+    "confidence": 0.8197866678237915,
+    "best_match": {
+      "filename": "Shading_Eyes_Process.jpg",
+      "similarity": 0.6408241391181946,
+      "is_margo": "True",
+      "metadata": {}
+    },
+    "all_matches": [
+      {
+        "filename": "Shading_Eyes_Process.jpg",
+        "similarity": 0.6408241391181946,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Margo's_concrete.jpg",
+        "similarity": 0.6391070485115051,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Extravagant_bedouin_women_with_children.jpg",
+        "similarity": 0.638908863067627,
+        "is_margo": "True",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "scan": "Margo_Veillon_Painting_Tenderness_1973.PNG",
+    "crop_id": 1,
+    "crop_file": "Margo_Veillon_Painting_Tenderness_1973_art_1.jpg",
+    "bbox": [
+      10,
+      38,
+      817,
+      1333
+    ],
+    "confidence": 0.9545912146568298,
+    "best_match": {
+      "filename": "Abstract_faces_and_hands.jpg",
+      "similarity": 0.685402512550354,
+      "is_margo": "True",
+      "metadata": {}
+    },
+    "all_matches": [
+      {
+        "filename": "Abstract_faces_and_hands.jpg",
+        "similarity": 0.685402512550354,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Bellbotttoms_in_the_Studio.jpg",
+        "similarity": 0.6459716558456421,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Women_cleaning_cooking_insturments_in_a_stream.jpg",
+        "similarity": 0.6400148868560791,
+        "is_margo": "True",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "scan": "Margo_Veillon_Painting_Tenderness_1973.PNG",
+    "crop_id": 2,
+    "crop_file": "Margo_Veillon_Painting_Tenderness_1973_art_2.jpg",
+    "bbox": [
+      12,
+      1351,
+      818,
+      1786
+    ],
+    "confidence": 0.5434143543243408,
+    "best_match": {
+      "filename": "Abstract_Cassandra.jpg",
+      "similarity": 0.6061121821403503,
+      "is_margo": "True",
+      "metadata": {}
+    },
+    "all_matches": [
+      {
+        "filename": "Abstract_Cassandra.jpg",
+        "similarity": 0.6061121821403503,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Bellbotttoms_in_the_Studio.jpg",
+        "similarity": 0.5977039933204651,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Exhausted.jpg",
+        "similarity": 0.587904691696167,
+        "is_margo": "True",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "scan": "testing_pure_artwork.png",
+    "crop_id": 1,
+    "crop_file": "testing_pure_artwork_art_1.jpg",
+    "bbox": [
+      2,
+      6,
+      721,
+      487
+    ],
+    "confidence": 0.990858256816864,
+    "best_match": {
+      "filename": "Green_and_blue.jpg",
+      "similarity": 0.9061180949211121,
+      "is_margo": "True",
+      "metadata": {}
+    },
+    "all_matches": [
+      {
+        "filename": "Green_and_blue.jpg",
+        "similarity": 0.9061180949211121,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Abstract_composition_The_Lion.jpg",
+        "similarity": 0.88960200548172,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Orange_flower.jpg",
+        "similarity": 0.8810444474220276,
+        "is_margo": "True",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "scan": "Veillon_Cairo_Exhibition_1998.PNG",
+    "crop_id": 1,
+    "crop_file": "Veillon_Cairo_Exhibition_1998_art_1.jpg",
+    "bbox": [
+      13,
+      10,
+      820,
+      1585
+    ],
+    "confidence": 0.76104736328125,
+    "best_match": {
+      "filename": "Study_of_a_Friend.jpg",
+      "similarity": 0.6333039999008179,
+      "is_margo": "True",
+      "metadata": {}
+    },
+    "all_matches": [
+      {
+        "filename": "Study_of_a_Friend.jpg",
+        "similarity": 0.6333039999008179,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Abstract_faces_and_hands.jpg",
+        "similarity": 0.6266032457351685,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Shading_Eyes_Process.jpg",
+        "similarity": 0.6187976002693176,
+        "is_margo": "True",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "scan": "Veillon_Cairo_Exhibition_1998.PNG",
+    "crop_id": 2,
+    "crop_file": "Veillon_Cairo_Exhibition_1998_art_2.jpg",
+    "bbox": [
+      11,
+      575,
+      822,
+      1785
+    ],
+    "confidence": 0.36578452587127686,
+    "best_match": {
+      "filename": "Abstract_faces_and_hands.jpg",
+      "similarity": 0.7205138802528381,
+      "is_margo": "True",
+      "metadata": {}
+    },
+    "all_matches": [
+      {
+        "filename": "Abstract_faces_and_hands.jpg",
+        "similarity": 0.7205138802528381,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Three_Rural_Scenes.jpg",
+        "similarity": 0.7177833318710327,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Eating_food.jpg",
+        "similarity": 0.7068158984184265,
+        "is_margo": "True",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "scan": "Veillon_Egyptian_Studies_1935.PNG",
+    "crop_id": 1,
+    "crop_file": "Veillon_Egyptian_Studies_1935_art_1.jpg",
+    "bbox": [
+      13,
+      305,
+      826,
+      1446
+    ],
+    "confidence": 0.7375661134719849,
+    "best_match": {
+      "filename": "Shading_Eyes_Process.jpg",
+      "similarity": 0.8007408976554871,
+      "is_margo": "True",
+      "metadata": {}
+    },
+    "all_matches": [
+      {
+        "filename": "Shading_Eyes_Process.jpg",
+        "similarity": 0.8007408976554871,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Abstract_faces_and_hands.jpg",
+        "similarity": 0.7962192296981812,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Woman_with_donkey.jpg",
+        "similarity": 0.7903735637664795,
+        "is_margo": "True",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "scan": "Veillon_Egyptian_Studies_1935.PNG",
+    "crop_id": 2,
+    "crop_file": "Veillon_Egyptian_Studies_1935_art_2.jpg",
+    "bbox": [
+      11,
+      1458,
+      822,
+      1785
+    ],
+    "confidence": 0.2704028785228729,
+    "best_match": {
+      "filename": "Abstract_Cassandra.jpg",
+      "similarity": 0.6144341230392456,
+      "is_margo": "True",
+      "metadata": {}
+    },
+    "all_matches": [
+      {
+        "filename": "Abstract_Cassandra.jpg",
+        "similarity": 0.6144341230392456,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Bellbotttoms_in_the_Studio.jpg",
+        "similarity": 0.6133406758308411,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Cello_Player.jpg",
+        "similarity": 0.6032246351242065,
+        "is_margo": "True",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "scan": "Veillon_Exhibition_1929_1978.PNG",
+    "crop_id": 1,
+    "crop_file": "Veillon_Exhibition_1929_1978_art_1.jpg",
+    "bbox": [
+      9,
+      22,
+      827,
+      1363
+    ],
+    "confidence": 0.8770837783813477,
+    "best_match": {
+      "filename": "Shading_Eyes_Process.jpg",
+      "similarity": 0.6005874872207642,
+      "is_margo": "True",
+      "metadata": {}
+    },
+    "all_matches": [
+      {
+        "filename": "Shading_Eyes_Process.jpg",
+        "similarity": 0.6005874872207642,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Margo's_concrete.jpg",
+        "similarity": 0.594429612159729,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Gazoline_cart.jpg",
+        "similarity": 0.5934776067733765,
+        "is_margo": "True",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "scan": "Veillon_Prizes_and_Public_Works_List.PNG",
+    "crop_id": 1,
+    "crop_file": "Veillon_Prizes_and_Public_Works_List_art_1.jpg",
+    "bbox": [
+      12,
+      25,
+      820,
+      1787
+    ],
+    "confidence": 0.7810829281806946,
+    "best_match": {
+      "filename": "Shading_Eyes_Process.jpg",
+      "similarity": 0.6607149839401245,
+      "is_margo": "True",
+      "metadata": {}
+    },
+    "all_matches": [
+      {
+        "filename": "Shading_Eyes_Process.jpg",
+        "similarity": 0.6607149839401245,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Eating_food.jpg",
+        "similarity": 0.656083881855011,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Three_Rural_Scenes.jpg",
+        "similarity": 0.6520973443984985,
+        "is_margo": "True",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "scan": "Vevey_Zabbeni_Gallery_Exhibition_1996.PNG",
+    "crop_id": 1,
+    "crop_file": "Vevey_Zabbeni_Gallery_Exhibition_1996_art_1.jpg",
+    "bbox": [
+      10,
+      29,
+      825,
+      1430
+    ],
+    "confidence": 0.9464854598045349,
+    "best_match": {
+      "filename": "Shading_Eyes_Process.jpg",
+      "similarity": 0.5947781205177307,
+      "is_margo": "True",
+      "metadata": {}
+    },
+    "all_matches": [
+      {
+        "filename": "Shading_Eyes_Process.jpg",
+        "similarity": 0.5947781205177307,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Abstract_faces_and_hands.jpg",
+        "similarity": 0.5868748426437378,
+        "is_margo": "True",
+        "metadata": {}
+      },
+      {
+        "filename": "Two_fellahi_women.jpg",
+        "similarity": 0.5868341326713562,
+        "is_margo": "True",
+        "metadata": {}
+      }
+    ]
+  }
+]
